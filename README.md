@@ -3,7 +3,8 @@
 # 🚨 SYSTEM BOOT SEQUENCE INITIATED 🚨
 
 <div align="center">
-  
+
+```
 ┌════════════════════════════════════════════════════════════════┐
 │ ID: 🌍 unkn0wnxxx │
 │ CLASS: Penetration Tester [S-RANK] │
@@ -12,7 +13,7 @@
 │ @MediamarktSaturn │
 │ CORE DIRECTIVE: "Break it to build it better"│
 └════════════════════════════════════════════════════════════════┘
-
+```
 
 **Apprentice | Offensive Security @MediamarktSaturn**  
 **OSCP | eJPT | Google Cyber Security Professional**  
