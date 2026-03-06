@@ -5,10 +5,9 @@
 <div align="center">
   
 ┌════════════════════════════════════════════════════════════════┐
-│ ID: unkn0wnxxx ║
+│ ID: 🌍 unkn0wnxxx ║
 │ CLASS: Penetration Tester [S-RANK] │
 │ STATUS: Apprentice | Offensive Security @MediamarktSaturn ║
-│ LOCATION: 🌍 Remote Sector ║
 │ CORE DIRECTIVE: "Break it to build it better" ║
 └════════════════════════════════════════════════════════════════┘
 
