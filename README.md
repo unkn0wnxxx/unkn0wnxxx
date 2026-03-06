@@ -1,4 +1,6 @@
-        # 🚨 SYSTEM BOOT SEQUENCE INITIATED 🚨
+<div align="center">
+        
+# 🚨 SYSTEM BOOT SEQUENCE INITIATED 🚨
 
 ██╗ ██╗███╗ ██╗██████╗ ██╗ ██╗███╗ ██╗██╗ ██╗██╗ ██╗██╗ ██╗
 ██║ ██║████╗ ██║██╔══██╗██║ ██║████╗ ██║╚██╗██╔╝╚██╗██╔╝██║ ██║
