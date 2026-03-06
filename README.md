@@ -15,7 +15,7 @@
 └════════════════════════════════════════════════════════════════┘
 ```
 
-**Apprentice | Offensive Security @MediamarktSaturn**  
+**Apprentice | Offensive Security @MediaMarktSaturn**  
 **OSCP | eJPT | Google Cyber Security Professional**  
 *"Leveling up skills and breaking systems (ethically)"*
 
