@@ -35,17 +35,6 @@
 ---
 
 
-## ⚔️ ACTIVE MISSIONS
-
-| Mission | Status | Progress |
-|:-------:|:------:|:--------:|
-| **💻 SYSTEM HARDENING** - Upgrading methodology & toolkit | `IN PROGRESS` | ██████░░░░ 60% |
-| **🧠 CTF GRIND** - TryHackMe / HackTheBox engagement | `ACTIVE` | ████████░░ 80% |
-| **🏢 CORP OPS** - Real-world pentests @MediaMarktSaturn | `ACTIVE` | ██████░░░░ 65% |
-
----
-
-
 ## 🕵️ SKILL STATISTICS
 
 | Platform | Rank | Progress |
@@ -53,11 +42,6 @@
 | **TryHackMe** | Top 4% Global | ██░░░░░░ 100+ rooms |
 | **OffSec** | OSCP Certified | ██████████ 100+ rooms |
 | **HackTheBox** | Intermediate | ████░░░░ 40+ boxes |
-
----
-
-
-## 🌐 SECURE COMMS CHANNEL
 
 <div align="center">
 
@@ -67,3 +51,13 @@
 
 
 </div>
+
+---
+
+## ⚔️ ACTIVE MISSIONS
+
+| Mission | Status | Progress |
+|:-------:|:------:|:--------:|
+| **💻 SYSTEM HARDENING** - Upgrading methodology & toolkit | `IN PROGRESS` | ██████░░░░ 60% |
+| **🧠 CTF GRIND** - TryHackMe / HackTheBox engagement | `ACTIVE` | ████████░░ 80% |
+| **🏢 CORP OPS** - Real-world pentests @MediaMarktSaturn | `ACTIVE` | ██████░░░░ 65% |
