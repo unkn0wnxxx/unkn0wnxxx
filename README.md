@@ -54,7 +54,8 @@
 | Platform | Rank | Progress |
 |:--------:|:----:|:--------:|
 | **TryHackMe** | Top 4% Global | ██░░░░░░ 100+ rooms |
-| **OffSec** | Advanced Hacker | ████░░░░ 100+ boxes |
+| **OffSec** | OSCP Certified | ██████████ 100+ rooms |
+| **HackTheBox** | Intermediate | ████░░░░ 40+ boxes |
 
 ---
 
@@ -63,6 +64,8 @@
 <div align="center">
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/unkn0wnxxx)
+[![OffSec](https://img.shields.io/badge/OffSec-000000?style=for-the-badge&logo=tryhackme&logoColor=red)](https://portal.offsec.com/public-profile/d4de8599-ef4d-4a9c-8240-e80bfd1e4d0f)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/public/users/2462813)
+
 
 </div>
