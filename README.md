@@ -7,7 +7,8 @@
 ┌════════════════════════════════════════════════════════════════┐
 │ ID: 🌍 unkn0wnxxx │
 │ CLASS: Penetration Tester [S-RANK] │
-│ STATUS: Apprentice | Offensive Security │
+│ STATUS: Apprentice │
+│ COMPANY: Offensive Security │
 │ @MediamarktSaturn │
 │ CORE DIRECTIVE: "Break it to build it better"│
 └════════════════════════════════════════════════════════════════┘
