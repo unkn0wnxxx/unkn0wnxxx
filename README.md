@@ -1,7 +1,5 @@
 # 🚨 SYSTEM BOOT SEQUENCE INITIATED 🚨
 
-<div align="center">
-
 ┌════════════════════════════════════════════════════════════════┐
 │ ID: unkn0wnxxx ║
 │ CLASS: Penetration Tester [S-RANK] │
