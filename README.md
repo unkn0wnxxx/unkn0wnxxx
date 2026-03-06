@@ -1,3 +1,5 @@
+<div align="center">
+  
 # 🚨 SYSTEM BOOT SEQUENCE INITIATED 🚨
 
 ┌════════════════════════════════════════════════════════════════┐
