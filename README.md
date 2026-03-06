@@ -18,8 +18,8 @@
 └════════════════════════════════════════════════════════════════┘
 
 
-**Apprentice Offensive Security @MediamarktSaturn**  
-**OSCP | eJPT | Google Cybersecurity**  
+**Apprentice | Offensive Security @MediamarktSaturn**  
+**OSCP | eJPT | Google Cyber Security Professional**  
 *"Leveling up skills and breaking systems (ethically)"*
 
 </div>
@@ -32,7 +32,7 @@
 ║ ID: unkn0wnxxx ║
 ║ CLASS: Penetration Tester ║
 ║ RANK: S-Class Operator ║
-║ STATUS: Apprentice Offensive Security @MediamarktSaturn ║
+║ STATUS: Apprentice | Offensive Security @MediamarktSaturn ║
 ║ LOCATION: 🌍 Remote Sector ║
 ║ CORE DIRECTIVE: "Break it to build it better" ║
 ╚══════════════════════════════════════════════════════════════╝
