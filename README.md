@@ -32,7 +32,7 @@
 | **eJPT** - eLearnSecurity Junior Penetration Tester | ✅ **UNLOCKED** |
 | **GCSP** - Google Cyber Security Professional | ✅ **UNLOCKED** |
 
-Certificate Proof: https://credentials.offsec.com/0e7e6125-4393-4798-98f2-1be7f8af9ad7#acc.nk5UxeZh
+Certificate Proof: https://credentials.offsec.com/profile/lukaskeim312065/wallet
 ---
 
 
