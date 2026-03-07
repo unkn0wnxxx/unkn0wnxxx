@@ -42,7 +42,7 @@ Certificate Proof: https://credentials.offsec.com/profile/lukaskeim312065/wallet
 |:--------:|:----:|:--------:|
 | **TryHackMe** | Top 4% Global | ██░░░░░░ 100+ rooms |
 | **OffSec** | OSCP+ Certified | ██████████ 100+ rooms |
-| **HackTheBox** | Intermediate | ████░░░░ 40+ boxes |
+| **HackTheBox** | Intermediate | ████░░░░ 40+ rooms |
 
 <div align="center">
 
