@@ -62,3 +62,5 @@ Certificate Proof: https://credentials.offsec.com/profile/lukaskeim312065/wallet
 | **💻 ARSENAL** - Upgrading methodology & toolkit | `IN PROGRESS` | ██████░░░░ 60% |
 | **🧠 CTF GRIND** - TryHackMe / HackTheBox engagement | `ACTIVE` | ████████░░ 80% |
 | **🏢 CORP OPS** - Real-world pentests @MediaMarktSaturn | `ACTIVE` | ██████░░░░ 65% |
+| **🏢 CERTIFICATIONS** - ? | `INACTIVE` | ██████░░░░ 35% |
+
