@@ -8,7 +8,7 @@
 ┌════════════════════════════════════════════════════════════════┐
 │ ID: 🌍 unkn0wnxxx │
 │ CLASS: Penetration Tester │
-│ STATUS: Apprentice │
+│ STATUS: Associate Security Consultant │
 │ COMPANY: Offensive Security │
 │ @MediaMarktSaturn │
 │ CORE DIRECTIVE: "Break it to build it better"│
