@@ -50,5 +50,3 @@ Certificate Proof: https://credentials.offsec.com/profile/lukaskeim312065/wallet
 
 
 </div>
-
----
