@@ -15,9 +15,6 @@
 
 </div>
 
----
-
-
 ## 🏆 ACHIEVEMENT UNLOCKS
 
 | Certification | Status |
@@ -27,9 +24,6 @@
 | **GCSP** - Google Cyber Security Professional | ✅ **UNLOCKED** |
 
 Certificate Proof: https://credentials.offsec.com/profile/lukaskeim312065/wallet
-
----
-
 
 ## 🕵️ SKILL STATISTICS
 
