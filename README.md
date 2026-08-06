@@ -13,9 +13,6 @@
 └════════════════════════════════════════════════════════════════┘
 ```
 
-**Associate Security Consultant | Offensive Security @MediaMarktSaturn**  
-**OSCP | eJPT | Google Cyber Security Professional**  
-
 </div>
 
 ---
