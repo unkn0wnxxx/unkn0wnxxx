@@ -15,7 +15,6 @@
 
 **Associate Security Consultant | Offensive Security @MediaMarktSaturn**  
 **OSCP | eJPT | Google Cyber Security Professional**  
-*"Leveling up skills and breaking systems (ethically) *chuckles*" *
 
 </div>
 
@@ -31,6 +30,7 @@
 | **GCSP** - Google Cyber Security Professional | ✅ **UNLOCKED** |
 
 Certificate Proof: https://credentials.offsec.com/profile/lukaskeim312065/wallet
+
 ---
 
 
