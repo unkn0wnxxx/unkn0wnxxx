@@ -13,7 +13,6 @@
 ```
 
 </div>
-
 ## 🏆 ACHIEVEMENT UNLOCKS
 
 | Certification | Status |
