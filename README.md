@@ -8,7 +8,6 @@
 │ CLASS: Penetration Tester │
 │ STATUS: Associate Security Consultant │
 │ COMPANY: Offensive Security │
-│ @MediaMarktSaturn │
 │ CORE DIRECTIVE: "Break it to build it better"│
 └════════════════════════════════════════════════════════════════┘
 ```
