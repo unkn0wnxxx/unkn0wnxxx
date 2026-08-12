@@ -11,8 +11,8 @@
 │ CORE DIRECTIVE: "Break it to build it better"│
 └════════════════════════════════════════════════════════════════┘
 ```
-
 </div>
+
 ## 🏆 ACHIEVEMENT UNLOCKS
 
 | Certification | Status |
