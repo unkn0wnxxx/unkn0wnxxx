@@ -29,7 +29,7 @@ Certificate Proof: https://credentials.offsec.com/profile/lukaskeim312065/wallet
 |:--------:|:----:|:--------:|
 | **TryHackMe** | Top 1% Global | ████████ 160+ Server |
 | **OffSec** | OSCP+ Certified | ██████░░ 100+ Server |
-| **HackTheBox** | Master  | ████░░░░ 80+ Server |
+| **HackTheBox** | Master  | ████░░░░ 90+ Server |
 
 <div align="center">
 
